@@ -212,7 +212,7 @@ b.parentNode.removeChild(b);
 c.parentNode.removeChild(c);
 }
 function rem() {
-window.location.href = "Ahw6kshaya.php";
+window.location.href = "hw6.php";
 }
 			
 </script>
